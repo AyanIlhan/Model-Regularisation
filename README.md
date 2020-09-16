@@ -1,4 +1,4 @@
-# Dimensionality-ReductionPCA
+# Model Regularisation
 
 This project was completed by 
 
